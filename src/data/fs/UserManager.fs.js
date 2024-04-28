@@ -3,7 +3,7 @@ import crypto from "crypto";
 
 class UserManager {
   constructor() {
-    this.path = "./src/Data/Fs/Files/user.json"; //ruta donde se crea el archivo
+    this.path = "./src/data/fs/files/user.json"; //ruta donde se crea el archivo
     this.init();
   }
   init() {
