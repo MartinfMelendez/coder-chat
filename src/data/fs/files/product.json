@@ -1,0 +1,178 @@
+[
+  {
+    "id": "c9439f2205e492cf872b5fc1",
+    "title": "calza",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "ropa deportiva",
+    "price": "50",
+    "stock": "20"
+  },
+  {
+    "id": "4ca0d52dd1ff988870725178",
+    "title": "top",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "ropa deportiva",
+    "price": "100",
+    "stock": "30"
+  },
+  {
+    "id": "5b12c38464696a065113d2b0",
+    "title": "calza larga",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "calzados",
+    "price": "120",
+    "stock": "70"
+  },
+  {
+    "id": "608f289b96d72b2ecd1c0313",
+    "title": "zapatillas",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "calzados",
+    "price": "110",
+    "stock": "100"
+  },
+  {
+    "id": "ed3e3426550fc2fd2cafb76d",
+    "title": "zapatos",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "calzados",
+    "price": "80",
+    "stock": "90"
+  },
+  {
+    "id": "7449d00ad8ef1569a4fb0f70",
+    "title": "estiletos",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "calzados",
+    "price": "85",
+    "stock": "93"
+  },
+  {
+    "id": "7d2fb6d3537189065d6fcc71",
+    "title": "jean",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "75",
+    "stock": "65"
+  },
+  {
+    "id": "6c02efdb172ac42ec12d2c5c",
+    "title": "bermudas",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "65",
+    "stock": "83"
+  },
+  {
+    "id": "1a3895566342f42e9799aa4e",
+    "title": "capris",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "80",
+    "stock": "150"
+  },
+  {
+    "id": "f0ce5edb11b51eda9f2335f0",
+    "title": "short",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "83",
+    "stock": "125"
+  },
+  {
+    "id": "9c17b0073f57e7b576d652ae",
+    "title": "pescadores",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "77",
+    "stock": "10"
+  },
+  {
+    "id": "a23c671123da932df3b70f7c",
+    "title": "chupines",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "66",
+    "stock": "20"
+  },
+  {
+    "id": "77adceef12c59643caa9dc2f",
+    "title": "oxford",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "99",
+    "stock": "90"
+  },
+  {
+    "id": "31d8a8f7127bbd7850488dd7",
+    "title": "calza biker",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "ropa deportiva",
+    "price": "88",
+    "stock": "35"
+  },
+  {
+    "id": "a9d2155f0856b7e898660d17",
+    "title": "calza seamless",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "ropa deportiva",
+    "price": "123",
+    "stock": "40"
+  },
+  {
+    "id": "7559bbbf842dd7d779ee1f3b",
+    "title": "musculosa",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "Remeras",
+    "price": "40",
+    "stock": "150"
+  },
+  {
+    "id": "af6fff0ba7b21079aee990fb",
+    "title": "chomba",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "Remeras",
+    "price": "45",
+    "stock": "130"
+  },
+  {
+    "id": "62551869b9d02e5ee32d03dd",
+    "title": "cuello en v",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "Remeras",
+    "price": "65",
+    "stock": "78"
+  },
+  {
+    "id": "74bced4dcd86be9afed0eb8d",
+    "title": "camiseta",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "Remeras",
+    "price": "90",
+    "stock": "150"
+  },
+  {
+    "id": "65d31548cbe22c700e6d2958",
+    "title": "Ropa",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "100",
+    "stock": "50"
+  },
+  {
+    "id": "b671d1614241be216b296c42",
+    "title": "bermudas",
+    "photo": "https://camarasal.com/wp-content/uploads/2020/08/default-image-5-1.jpg",
+    "category": "pantalones",
+    "price": "50",
+    "stock": "20"
+  },
+  {
+    "id": "8d70bceba3e2d4f3918f3403",
+    "title": "Shein",
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_863524-MLA73386190623_122023-O.webp",
+    "category": "ropa deportica",
+    "price": "24000",
+    "stock": "10"
+  }
+]

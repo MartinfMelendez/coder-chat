@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2debf215b96df97957bb2bd9",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObPqifjaY_XhtqkVFqR54lyFL-UL1CDwE9vSJcHWBpg&s",
+    "email": "segundomail@gmail.com",
+    "password": "clave456",
+    "role": "1be7a68a6e4349edeb27836d"
+  },
+  {
+    "id": "93ecc932b592802f2f6c9fa6",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObPqifjaY_XhtqkVFqR54lyFL-UL1CDwE9vSJcHWBpg&s",
+    "email": "tercermail@gmail.com",
+    "password": "clave789",
+    "role": "ae04d988d1710dd17bb7c225"
+  },
+  {
+    "id": "ccb5fe9b18790ad8a9954944",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObPqifjaY_XhtqkVFqR54lyFL-UL1CDwE9vSJcHWBpg&s",
+    "email": "cuartomail@gmail.com",
+    "password": "asd3214",
+    "role": "894863fa64006052ec25fbb7"
+  },
+  {
+    "id": "cb573e80246da4faec49f14a",
+    "photo": "https://img.freepik.com/foto-gratis/hermosa-mariposa-naturaleza_23-2150445580.jpg",
+    "email": "primermail@gmail.com",
+    "password": "master",
+    "role": "b4b6cac7af5cc5e95549c562"
+  }
+]
